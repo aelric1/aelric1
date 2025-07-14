@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/entlv/learning-journey/main/image_ocean.png" alt="Ocean Image" width="500">
+  <img src="https://raw.github.com/entlv/learning-journey/blob/main/9241a18bf6efbd32430d507dcd6d66f5.jpg" alt="Ocean Image" width="500">
 </p>
 
 
