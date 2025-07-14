@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.github.com/entlv/learning-journey/blob/main/9241a18bf6efbd32430d507dcd6d66f5.jpg" alt="Ocean Image" width="500">
-</p>
+![Piconcien](https://github.com/entlv/learning-journey/blob/main/piconcien.png?raw=true)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=entlv&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
