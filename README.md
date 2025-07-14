@@ -1,4 +1,6 @@
-![Ocean Image](https://raw.githubusercontent.com/entlv/learning-journey/main/image_ocean.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/entlv/learning-journey/main/image_ocean.png" alt="Ocean Image" width="500">
+</p>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=entlv&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
