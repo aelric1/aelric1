@@ -11,12 +11,8 @@ https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entlv&layout=donut-vertical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masterjudah&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masterjudah&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterjudah&layout=compact&theme=transparent" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=transparent" width="33%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=transparent" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=transparent" width="33%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 </p>
