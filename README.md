@@ -4,11 +4,11 @@
        alt="Piconcien"
        style="width: 100%; height: auto; max-height: 160px; border-radius: 16px; object-fit: cover;" />
 </p>
-<table>
-  <tr>
-    <td width="60%">
-      
-<h2>👋 About Me</h2>
+<div align="center" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+
+<div align="left" style="width: 60%; min-width: 250px;">
+
+## 👋 About Me
 
 Hi! I'm **Abdallah Mehdi**, an 18-year-old student from **Algeria**.  
 I'm passionate about **computer science** and currently learning **C++** and **problem solving**.  
@@ -20,12 +20,13 @@ I'm building projects of various difficulty levels and sharing them here to docu
 
 Feel free to explore my repositories and follow my progress!
 
-   </td>
-   <td>
-     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250">
-   </td>
-  </tr>
-</table>
+</div>
+
+<div align="right" style="min-width: 250px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250">
+</div>
+
+</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=entlv&show_icons=true&theme=transparent" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=entlv&theme=transparent" width="45%" />
