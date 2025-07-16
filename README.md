@@ -4,16 +4,18 @@
        alt="Piconcien"
        style="width: 100%; height: auto; max-height: 160px; border-radius: 16px; object-fit: cover;" />
 </p>
-<div style="display: flex; align-items: center; justify-content: space-between;">
 
-  <!-- Bio on the left -->
-  <div style="width: 50%;">
+
+<div style="display: flex; align-items: center;">
+
+  <!-- Bio on the left (60%) -->
+  <div style="flex: 0 0 60%; padding-right: 20px;">
 
   <h2>👋 About Me</h2>
 
-  Hi! I'm <strong>Abdallah Mehdi</strong>, an 18-year-old student from <strong>Algeria</strong>.<br>
+  <p>Hi! I'm <strong>Abdallah Mehdi</strong>, an 18-year-old student from <strong>Algeria</strong>.<br>
   I'm passionate about <strong>computer science</strong> and currently learning <strong>C++</strong> and <strong>problem solving</strong>.<br>
-  I'm building projects of various difficulty levels and sharing them here to document my journey.
+  I'm building projects of various difficulty levels and sharing them here to document my journey.</p>
 
   <ul>
     <li>🧠 I enjoy working with <strong>algorithms</strong> and exploring advanced C++ techniques.</li>
@@ -21,9 +23,16 @@
     <li>🚀 Always learning and growing as a developer.</li>
   </ul>
 
-  Feel free to explore my repositories and follow my progress!
+  <p>Feel free to explore my repositories and follow my progress!</p>
 
   </div>
+
+  <!-- GIF on the right (40%) -->
+  <div style="flex: 0 0 40%; text-align: center;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" height="220" alt="coding gif">
+  </div>
+
+</div>
 
   <!-- GIF on the right -->
   <div style="width: 45%; text-align: center;">
@@ -31,6 +40,8 @@
   </div>
 
 </div>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=entlv&show_icons=true&theme=transparent" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=entlv&theme=transparent" width="45%" />
