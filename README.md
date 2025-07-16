@@ -9,9 +9,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=entlv&theme=transparent" width="45%" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=entlv&layout=compact&theme=transparent" width="30%" />
-</p>
+</p>-->
 
 
 <p align="center">
