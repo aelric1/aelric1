@@ -5,6 +5,11 @@
        style="width: 100%; height: auto; max-height: 160px; border-radius: 16px; object-fit: cover;" />
 </p>
 <p align="center">
+  <img src="https://github.com/entlv/entlv/blob/main/4_5779436473149293430.gif"
+       alt="Piconcien"
+       style="width: 100%; height: auto; max-height: 160px; border-radius: 16px; object-fit: cover;" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=entlv&show_icons=true&theme=transparent" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=entlv&theme=transparent" width="45%" />
 </p>
