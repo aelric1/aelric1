@@ -4,9 +4,10 @@
        alt="Piconcien"
        style="width: 100%; height: auto; max-height: 160px; border-radius: 16px; object-fit: cover;" />
 </p>
-<div align="center" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-<div align="left" style="width: 60%; min-width: 250px;">
+<!-- Left Side: Bio -->
+<div style="flex: 1 1 50%; min-width: 250px;">
 
 ## 👋 About Me
 
@@ -22,7 +23,8 @@ Feel free to explore my repositories and follow my progress!
 
 </div>
 
-<div align="right" style="min-width: 250px;">
+<!-- Right Side: GIF -->
+<div style="flex: 1 1 50%; text-align: center; min-width: 250px;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250">
 </div>
 
