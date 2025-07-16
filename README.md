@@ -4,29 +4,31 @@
        alt="Piconcien"
        style="width: 100%; height: auto; max-height: 160px; border-radius: 16px; object-fit: cover;" />
 </p>
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<!-- Left Side: Bio -->
-<div style="flex: 1 1 50%; min-width: 250px;">
+  <!-- Bio on the left -->
+  <div style="width: 50%;">
 
-## 👋 About Me
+  <h2>👋 About Me</h2>
 
-Hi! I'm **Abdallah Mehdi**, an 18-year-old student from **Algeria**.  
-I'm passionate about **computer science** and currently learning **C++** and **problem solving**.  
-I'm building projects of various difficulty levels and sharing them here to document my journey.  
+  Hi! I'm <strong>Abdallah Mehdi</strong>, an 18-year-old student from <strong>Algeria</strong>.<br>
+  I'm passionate about <strong>computer science</strong> and currently learning <strong>C++</strong> and <strong>problem solving</strong>.<br>
+  I'm building projects of various difficulty levels and sharing them here to document my journey.
 
-- 🧠 I enjoy working with **algorithms** and exploring advanced C++ techniques.  
-- 🤖 I'm a beginner in **Telegram bot development** using Python.  
-- 🚀 Always learning and growing as a developer.
+  <ul>
+    <li>🧠 I enjoy working with <strong>algorithms</strong> and exploring advanced C++ techniques.</li>
+    <li>🤖 I'm a beginner in <strong>Telegram bot development</strong> using Python.</li>
+    <li>🚀 Always learning and growing as a developer.</li>
+  </ul>
 
-Feel free to explore my repositories and follow my progress!
+  Feel free to explore my repositories and follow my progress!
 
-</div>
+  </div>
 
-<!-- Right Side: GIF -->
-<div style="flex: 1 1 50%; text-align: center; min-width: 250px;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250">
-</div>
+  <!-- GIF on the right -->
+  <div style="width: 45%; text-align: center;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250">
+  </div>
 
 </div>
 <p align="center">
