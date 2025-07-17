@@ -7,7 +7,7 @@
 # About Me
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Text content on the left (60%) -->
+  <!-- Text content on the left -->
   <div style="flex: 1;">
     <p>Hello I'm <strong>Abdallah Mehdi</strong>, an 18-year-old student from <strong>Algeria</strong>.</p>
     <p>I'm passionate about <strong>computer science</strong> and currently learning <strong>C++</strong> and <strong>problem solving</strong>.</p>
@@ -22,7 +22,7 @@
     <p>Feel free to explore my repositories and follow my progress!</p>
   </div>
   
-  <!-- GIF on the right (40%) -->
+  <!-- GIF on the right -->
   <div style="flex: 1; text-align: center;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" height="220" alt="coding gif">
   </div>
