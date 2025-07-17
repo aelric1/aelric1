@@ -5,27 +5,29 @@
        style="width: 100%; height: auto; max-height: 160px; border-radius: 16px; object-fit: cover;" />
 </p>
 
+# About Me
 
 <div style="display: flex; align-items: center;">
-
-  <!-- Bio on the left (60%) -->
-  <div style="flex: 0 0 60%; padding-right: 20px;">
-
-  <h2>👋 About Me</h2>
-
-  <p>Hi! I'm <strong>Abdallah Mehdi</strong>, an 18-year-old student from <strong>Algeria</strong>.<br>
-  I'm passionate about <strong>computer science</strong> and currently learning <strong>C++</strong> and <strong>problem solving</strong>.<br>
-  I'm building projects of various difficulty levels and sharing them here to document my journey.</p>
-
-  <ul>
-    <li>🧠 I enjoy working with <strong>algorithms</strong> and exploring advanced C++ techniques.</li>
-    <li>🤖 I'm a beginner in <strong>Telegram bot development</strong> using Python.</li>
-    <li>🚀 Always learning and growing as a developer.</li>
-  </ul>
-
-  <p>Feel free to explore my repositories and follow my progress!</p>
-
+  <div style="flex: 1; padding-right: 20px;">
+    <p>Hello I’m <strong>Abdallah Mehdi</strong>, an 18-year-old student from <strong>Algeria</strong>.</p>
+    <p>I’m passionate about <strong>computer science</strong> and currently learning <strong>C++</strong> and <strong>problem solving</strong>.</p>
+    <p>I’m building projects of various difficulty levels and sharing them here to document my journey.</p>
+    
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li>[ ] I enjoy working with <strong>algorithms</strong> and exploring advanced C++ techniques.</li>
+      <li>[x] I’m a beginner in <strong>Telegram bot development</strong> using Python.</li>
+      <li>[ ] Always learning and growing as a developer.</li>
+    </ul>
+    
+    <p>Feel free to explore my repositories and follow my progress!</p>
   </div>
+  
+  <div style="flex: 1; text-align: right;">
+    <img src="https://github.com/entlv/entlv/blob/main/4_5779436473149293430.gif" alt="GIF" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
+
 
   <!-- GIF on the right (40%) -->
   <div style="flex: 0 0 40%; text-align: center;">
