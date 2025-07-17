@@ -12,10 +12,10 @@
   <div style="flex: 1;">
     <p><strong>Hello, I'm Abdallah Mehdi</strong>, an 18-year-old student from Algeria, passionate about computer science and problem solving.</p>
     
-    <p>I'm building projects of various difficulty levels to document my learning journey.</p>
+<p>I'm building projects of various difficulty levels to document my learning journey.</p>
     
     
-    <p>Feel free to explore my repositories and follow my progress!</p>
+<p>Feel free to explore my repositories and follow my progress!</p>
   </div>
   
   <div style="flex: 1; text-align: center;">
