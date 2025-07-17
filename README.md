@@ -14,11 +14,6 @@
     
     <p>I'm building projects of various difficulty levels to document my learning journey.</p>
     
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li>[ ] I enjoy working with <strong>algorithms</strong> and exploring advanced C++ techniques</li>
-      <li>[x] I'm a beginner in <strong>Telegram bot development</strong> using Python</li>
-      <li>[ ] Always learning and growing as a developer</li>
-    </ul>
     
     <p>Feel free to explore my repositories and follow my progress!</p>
   </div>
