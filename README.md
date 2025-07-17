@@ -10,15 +10,20 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
-    <p><strong>Hello, I'm Abdallah Mehdi</strong>, an 18-year-old student from Algeria, passionate about computer science and problem solving.</p>
+    <p><strong>Hello, I'm Abdallah Mehdi</strong>,
+      an 18-year-old student from Algeria,
+      passionate about computer science and
+      problem solving.</p>
     
-<p>I'm building projects of various difficulty levels to document my learning journey.</p>
+<p>I'm building projects of various difficulty levels
+  to document my learning journey.</p>
     
     
-<p>Feel free to explore my repositories and follow my progress!</p>
+<p>Feel free to explore my repositories 
+  and follow my progress!</p>
   </div>
   
-  <div style="flex: 1; text-align: center;">
+  <div align: center;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" height="220" alt="coding gif"width="45%">
   </div>
 </div>
