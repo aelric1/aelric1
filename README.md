@@ -21,7 +21,7 @@
   </div>
   
   <div align: left;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" height="220" alt="coding gif"width="45%">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"width="60%">
   </div>
 </div>
 
