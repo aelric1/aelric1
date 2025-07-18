@@ -4,26 +4,23 @@
        style="width: 100%; height: auto; max-height: 160px; border-radius: 16px; object-fit: cover;" />
 </p>
 
-# About Me
-
-<div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;"></div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     <p><strong>Hello, I'm Abdallah Mehdi</strong>,
-      an 18-year-old student from Algeria,
-      passionate about computer science and
+      an 18-year-old student from Algeria,</p>
+    <p> passionate about computer science and
       problem solving.</p>
     
-<p>I'm building projects of various difficulty levels
-  to document my learning journey.</p>
+<p>I'm building projects of various difficulty levels</p>
+  <p> to document my learning journey.</p>
     
     
-<p>Feel free to explore my repositories 
-  and follow my progress!</p>
+<p>Feel free to explore my repositories </p>
+  <p> and follow my progress!</p>
   </div>
   
-  <div align: center;">
+  <div align: left;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" height="220" alt="coding gif"width="45%">
   </div>
 </div>
