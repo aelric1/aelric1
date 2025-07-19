@@ -4,7 +4,7 @@
        style="width: 100%; height: auto; max-height: 160px; border-radius: 16px; object-fit: cover;" />
 </p>
 
-<img align="right" width="38%" src="https://github.com/entlv/entlv/blob/main/images/ezgif-3a96dd51ff9cb3.gif"/>
+<img align="right" width="38%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     <p><strong>Hello, I'm Abdallah Mehdi</strong>,
