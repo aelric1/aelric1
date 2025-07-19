@@ -11,6 +11,7 @@
       an 18-year-old student from Algeria,</p>
     <p> passionate about computer science and
       problem solving.</p>
+    <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
     
 <p>I'm building projects of various difficulty levels</p>
   <p> to document my learning journey.</p>
