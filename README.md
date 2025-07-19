@@ -4,14 +4,14 @@
        style="width: 100%; height: auto; max-height: 160px; border-radius: 16px; object-fit: cover;" />
 </p>
 
-
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     <p><strong>Hello, I'm Abdallah Mehdi</strong>,
       an 18-year-old student from Algeria,</p>
     <p> passionate about computer science and
       problem solving.</p>
-    <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+    
     
 <p>I'm building projects of various difficulty levels</p>
   <p> to document my learning journey.</p>
