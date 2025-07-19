@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/entlv/learning-journey/blob/main/piconcien.png?raw=true"
+  <img src="https://github.com/entlv/entlv/blob/main/images/601b0091c3247b806d0f4ee31ac2e33a.jpg?raw=true"
        alt="Piconcien"
        style="width: 100%; height: auto; max-height: 160px; border-radius: 16px; object-fit: cover;" />
 </p>
