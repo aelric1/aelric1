@@ -21,9 +21,7 @@
   <p> and follow my progress!</p>
   </div>
   
-  <div align: left;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"width="60%">
-  </div>
+
 </div>
 
 <div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;"></div>
