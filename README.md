@@ -8,17 +8,18 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     <p><strong>Hello, I'm Abdallah Mehdi</strong>,
-      an 18-year-old student from Algeria,</p>
-    <p> passionate about computer science and
-      problem solving.</p>
+      an 18-year-old student from Algeria,
+    passionate about computer science and
+      problem solving.
     
     
-<p>I'm building projects of various difficulty levels</p>
-  <p> to document my learning journey.</p>
+I'm building projects of various difficulty levels
+  to document my learning journey
     
     
-<p>Feel free to explore my repositories </p>
-  <p> and follow my progress!</p>
+Feel free to explore my repositories 
+  <
+ and follow my progress!</p>
   </div>
   
 
