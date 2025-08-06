@@ -4,7 +4,7 @@
 <img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
-    <p align="center"> 
+    <p> 
       Hey there! I’m Abdallah Mehdi — an 18-year-old student from Algeria who’s endlessly curious about the world of computer science and the art of problem solving.</p>
  <p align="center"> I treat every project like a puzzle waiting to be cracked, from small experiments to challenging builds that push my skills to the next level.</p>
  <p align="center"> Think of my repositories as a public diary of my learning journey — full of code, ideas, and the occasional bug that taught me something new.</p>
