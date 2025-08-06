@@ -1,4 +1,7 @@
 <img src="https://github.com/entlv/entlv/blob/main/images/601b0091c3247b806d0f4ee31ac2e33a.jpg?raw=true" style="width: 100%; height: 80px; object-fit: cover; border-radius: 16px;" />
+ <p align="center"><img src="https://github.com/entlv/entlv/blob/main/images/27a00b198f9e394989d6532da6e7454b.jpg?raw=true"
+       alt="Piconcien"style="width: 100%; height: auto; max-height: 160px; border-radius: 16px; object-fit: cover;" />
+</p>
 
 
 <img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
