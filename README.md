@@ -22,8 +22,6 @@ Feel free to explore my repositories
 
 </div>
 
-<div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;"></div>
-
 ## My Skills
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
