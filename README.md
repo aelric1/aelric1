@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/entlv/entlv/blob/main/images/601b0091c3247b806d0f4ee31ac2e33a.jpg?raw=true" style="width: 100%; height: 60x; object-fit: cover; border-radius: 16px;" />
+<!--<p align="center"><img src="https://github.com/entlv/entlv/blob/main/images/601b0091c3247b806d0f4ee31ac2e33a.jpg?raw=true" style="width: 100%; height: 60x; object-fit: cover; border-radius: 16px;" /> -->
 </p>
 <p align="center">
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Serif&pause=1000&color=98CCFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=+Hey+there!+Welcome+to+my+GitHub+space" alt="Typing SVG" /></a></p>
