@@ -13,7 +13,7 @@
 >Feel free to browse around, drop a star, or join me on this adventure!
 </p>
   </div>
- ## My Skills
+
  <p align="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Serif&pause=1000&color=98CCFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=My+skills+%3A" alt="Typing SVG" /></a> 
  </p>
