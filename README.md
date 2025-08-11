@@ -1,5 +1,7 @@
 <p align="center"><img src="https://github.com/entlv/entlv/blob/main/images/601b0091c3247b806d0f4ee31ac2e33a.jpg?raw=true" style="width: 100%; height: 60x; object-fit: cover; border-radius: 16px;" />
 </p>
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="welcome to my github profile" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=8294b0&center=true&vCenter=true&width=435&lines=welcome+to my+github+profile!" >
