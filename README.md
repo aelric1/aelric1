@@ -17,17 +17,15 @@
 >Feel free to browse around, drop a star, or join me on this adventure!
 </p>
   </div>
-  
-
-</div>
-![GitHub Streak](https://streak-stats.demolab.com/?user=entlv)](https://git.io/streak-stats)]
-## My Skills
+ ## My Skills
+ 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,,debian,discord,linux,md,ps,pycharm,raspberrypi,replit,vscode" />
+  </a>
 </p>
+</div>
+
 
 <div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;"></div>
 
