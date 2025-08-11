@@ -15,12 +15,12 @@ I treat every project like a puzzle waiting to be cracked, from small experiment
  <p align="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Serif&pause=1000&color=98CCFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=My+skills+%3A" alt="Typing SVG" /></a> 
  </p>
-<p align="center">
+<p align="left"">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,debian,discord,linux,md,ps,pycharm,raspberrypi,replit,vscode" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,nodejs,mysql,html,python" />
   </a>
