@@ -24,6 +24,11 @@
     <img src="https://skillicons.dev/icons?i=git,bash,,debian,discord,linux,md,ps,pycharm,raspberrypi,replit,vscode" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,nodejs,mysql,html,python" />
+  </a>
+</p>
 </div>
 
 
