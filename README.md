@@ -14,7 +14,9 @@
 </p>
   </div>
  ## My Skills
- 
+ <h2 align="left">
+   My Skills: 
+ </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,debian,discord,linux,md,ps,pycharm,raspberrypi,replit,vscode" />
