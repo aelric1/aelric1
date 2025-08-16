@@ -28,7 +28,9 @@ I treat every project like a puzzle waiting to be cracked, from small experiment
 </p>
 </div>
 
-<div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;"></div>
+<div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;">
+   <p> sjlkanlksdcna sd nohladjkluipdioadsjkkk d</p>
+</div>
 
 ## GitHub Stats
 <p align="center">
