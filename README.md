@@ -5,7 +5,7 @@
 <img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 
    
- <p   > 
+ <p> 
 Hey there! I’m Mehdi — an 18-year-old student from Algeria who’s endlessly curious about the world of computer science and the art of problem solving.
 I treat every project like a puzzle waiting to be cracked, from small experiments to challenging builds that push my skills to the next level.
  Think of my repositories as a public diary of my learning journey — full of code, ideas, and the occasional bug that taught me something new.
@@ -29,7 +29,7 @@ I treat every project like a puzzle waiting to be cracked, from small experiment
 </div>
 
 <div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;">
-   <p> sjlkanlksdcna sd nohladjkluipdioadsjkkk d</p>
+
 </div>
 
 ## GitHub Stats
