@@ -31,6 +31,9 @@ I treat every project like a puzzle waiting to be cracked, from small experiment
 <div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;">
 
 </div>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=entlv&theme=github-compact&radius=12" />
+</a>
 
 ## GitHub Stats
 <p align="center">
