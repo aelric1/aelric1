@@ -8,9 +8,9 @@
  <p> 
 Hey there! I’m Mehdi — an 18-year-old student from Algeria who’s endlessly curious about the world of computer science and the art of problem solving.
 I treat every project like a puzzle waiting to be cracked, from small experiments to challenging builds that push my skills to the next level.
- Think of my repositories as a public diary of my learning journey — full of code, ideas, and the occasional bug that taught me something new.
->Feel free to browse around, drop a star, or join me on this adventure!
-</p>
+ Think of my repositories as a public diary of my learning journey — full of code, ideas, and the occasional bug that taught me something new.</p>
+  <p> Feel free to browse around, drop a star, or join me on this adventure!</p>
+
 
   <div>
  <p align="left">
