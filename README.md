@@ -45,10 +45,10 @@ Hey there! I’m Mehdi — an 18-year-old student from Algeria who’s endlessly
 </div>
 
 <div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;">
-## GitHub Stats
+
 </div>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=entlv&theme=github-compact&radius=12&line=9EBECB" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=entlv&theme=github-compact&radius=12&line=9EBECB&hide_border=true" />
 </a>
 
 
