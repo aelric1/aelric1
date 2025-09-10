@@ -5,9 +5,9 @@
 <p align="center">
 <a href="https://www.instagram.com/z9qeo/">
   <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/instagram%20(2).png"/></a>
-<p align="center">
+  <p>  </p>
 <a href="https://t.me/entlv">
-  <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/telegram%20(2).png"/></a></p>
+  <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/telegram%20(2).png"/></a>
 
 <a href="https://www.google.com/?hl=en">
   <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/linkedin%20(2).png"/></a>
