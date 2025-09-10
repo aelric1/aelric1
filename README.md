@@ -2,9 +2,17 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Serif&pause=1000&color=98CCFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=+Hey+there!+Welcome+to+my+GitHub+space" alt="Typing SVG" /></a></p>
 
 <p align="center">
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://github.com/entlv/entlv/blob/main/images/search.png"/>
-</a>
+<a href="https://www.instagram.com/z9qeo/">
+  <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/instagram%20(2).png"/></a>
+
+<a href="https://t.me/entlv">
+  <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/telegram%20(2).png"/></a>
+
+<a href="https://www.google.com/?hl=en">
+  <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/linkedin%20(2).png"/></a>
+
+<a href="https://www.google.com/?hl=en">
+  <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/discord%20(2).png"/></a>
 </p>
 
 </div>
