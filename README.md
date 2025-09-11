@@ -53,7 +53,7 @@ Hey there! I’m Mehdi — an 18-year-old student from Algeria who’s endlessly
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=entlv&show_icons=true&theme=transparent" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=entlv&show_icons=true&theme=transparent&text_color=9EBECB" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=entlv&theme=transparent" width="45%" />
 </p>
 <p align="center">
