@@ -48,13 +48,13 @@ Hey there! I’m Mehdi — an 18-year-old student from Algeria who’s endlessly
 
 </div>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=entlv&theme=github-compact&radius=12&line=9EBECB&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aelric1&theme=github-compact&radius=12&line=9EBECB&hide_border=true" />
 </a>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=entlv&show_icons=true&theme=graywhite&text_color=9EBECB" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=entlv&theme=graywhite" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aelric1&show_icons=true&theme=graywhite&text_color=9EBECB" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aelric1&theme=graywhite" width="45%" />
 </p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Serif&pause=1000&color=98CCFF&background=FFFFFF00&center=true&width=435&lines=Thanks+for+being+here" alt="Typing SVG" /></a></p>
