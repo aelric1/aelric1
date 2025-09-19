@@ -53,8 +53,8 @@ Hey there! I’m Mehdi — an 18-year-old student from Algeria who’s endlessly
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=entlv&show_icons=true&theme=transparent&text_color=9EBECB" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=entlv&theme=transparent" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=entlv&show_icons=true&theme=graywhite&text_color=9EBECB" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=entlv&theme=graywhite" width="45%" />
 </p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Serif&pause=1000&color=98CCFF&background=FFFFFF00&center=true&width=435&lines=Thanks+for+being+here" alt="Typing SVG" /></a></p>
