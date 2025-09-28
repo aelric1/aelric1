@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/z9qeo/">
+<a href="https://www.instagram.com/aelv.z/">
   <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/instagram%20(2).png"/></a>
 
 <a href="https://t.me/entlv">
