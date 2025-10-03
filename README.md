@@ -64,7 +64,7 @@ Hey there! I’m Aelric — an 18-year-old student from Algeria who’s endlessl
 
 </div>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aelric1&theme=github-compact&radius=12&&text_color=9EBECB&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aelric1&theme=github-compact&radius=12&&line=9EBECB&hide_border=true&area=true" />
 </a>
 
 
