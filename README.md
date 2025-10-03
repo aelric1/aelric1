@@ -30,8 +30,6 @@
   <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/discord%20(2).png"/></a>
 </p>
 
-&nbsp;<div align="right">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/t7rxmnn2id33v0xm8hy4hq1lu?si=dcd934c9c4354a17)
 
 </div>
 <img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
@@ -59,6 +57,8 @@ Hey there! I’m Aelric — an 18-year-old student from Algeria who’s endlessl
   </a>
 </p>
 </div>
+&nbsp;<div align="right">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00000)](https://open.spotify.com/user/t7rxmnn2id33v0xm8hy4hq1lu?si=dcd934c9c4354a17)
 
 <div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;">
 
