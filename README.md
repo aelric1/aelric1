@@ -8,9 +8,6 @@
 
 
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/t7rxmnn2id33v0xm8hy4hq1lu?si=dcd934c9c4354a17)
-
 
 
 
@@ -32,6 +29,9 @@
 <a href="https://www.google.com/?hl=en">
   <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/discord%20(2).png"/></a>
 </p>
+
+&nbsp;<div align="right">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/t7rxmnn2id33v0xm8hy4hq1lu?si=dcd934c9c4354a17)
 
 </div>
 <img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
