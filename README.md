@@ -1,24 +1,10 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=1000&color=9EBECB&width=435&lines=Hi+There!+Welcome+to+my+GitHub+space" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=1000&color=FFFFFF&width=435&lines=Hi+There!+Welcome+to+my+GitHub+space" alt="Typing SVG" /></a>
 </p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Varela+Round&pause=1000&color=F2F2F2&width=435&lines=Hi+There!+Welcome+to+my+GitHub+space" alt="Typing SVG" /></a>
 
 <p align="center">
 <a href="https://www.instagram.com/aelv.z/">
   <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/instagram%20(2).png"/></a>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -36,8 +22,7 @@
 </div>
 <img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 
-   
- <p> 
+ <p font-family:"Asap"> 
 Hey there! I’m Aelric — an 18-year-old student from Algeria who’s endlessly curious about the world of computer science and the art of problem solving.</p>
 <p>I treat every project like a puzzle waiting to be cracked, from small experiments to challenging builds that push my skills to the next level.</p>
 <p>
@@ -46,7 +31,7 @@ Hey there! I’m Aelric — an 18-year-old student from Algeria who’s endlessl
 
   <div>
  <p align="left">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Serif&pause=1000&color=98CCFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=My+skills+%3A" alt="Typing SVG" /></a> 
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=My+skills+%3A" alt="Typing SVG" /></a> 
  </p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -59,8 +44,6 @@ Hey there! I’m Aelric — an 18-year-old student from Algeria who’s endlessl
   </a>
 </p>
 </div>
-&nbsp;<div align="right">
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00000)](https://open.spotify.com/user/t7rxmnn2id33v0xm8hy4hq1lu?si=dcd934c9c4354a17)
 
 <div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;">
 
@@ -69,10 +52,11 @@ Hey there! I’m Aelric — an 18-year-old student from Algeria who’s endlessl
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aelric1&theme=github-compact&radius=12&&line=36454F&area_color=808080&hide_border=true&area=true" />
 </a>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aelric1&show_icons=true&theme=graywhite&text_color=9EBECB" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aelric1&theme=graywhite&text_color=9EBECB" width="45%" />
 </p>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libertinus+Serif&pause=1000&color=98CCFF&background=FFFFFF00&center=true&width=435&lines=Thanks+for+being+here" alt="Typing SVG" /></a></p>
+
+ <p align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Thanks+for+being+here" alt="Typing SVG" /></a> 
+ </p>
