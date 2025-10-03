@@ -22,7 +22,7 @@
 </div>
 <img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 
- <p font-family:"Asap"> 
+ <p font-family: DM Sans> 
 Hey there! I’m Aelric — an 18-year-old student from Algeria who’s endlessly curious about the world of computer science and the art of problem solving.</p>
 <p>I treat every project like a puzzle waiting to be cracked, from small experiments to challenging builds that push my skills to the next level.</p>
 <p>
