@@ -2,6 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=1000&color=9EBECB&width=435&lines=Hi+There!+Welcome+to+my+GitHub+space" alt="Typing SVG" /></a>
 </p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Varela+Round&pause=1000&color=F2F2F2&width=435&lines=Hi+There!+Welcome+to+my+GitHub+space" alt="Typing SVG" /></a>
+
 <p align="center">
 <a href="https://www.instagram.com/aelv.z/">
   <img height="50" src="https://github.com/entlv/entlv/blob/main/images/icons/my-aesthetic/instagram%20(2).png"/></a>
